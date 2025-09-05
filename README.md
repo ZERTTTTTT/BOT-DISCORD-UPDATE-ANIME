@@ -30,7 +30,7 @@ Bot ini memiliki set perintah yang fokus untuk kemudahan penggunaan:
 ## 🚀 Instalasi & Pengaturan
 
 #### 1. Siapkan File
-Pastikan Anda memiliki 4 file berikut di direktori Anda: `bot.py`, `.env`, `requirements.txt`, dan `schedule_settings.json`.
+Pastikan Anda memiliki 4 file berikut di direktori Anda: `app.py`, `.env`, `requirements.txt`, dan `schedule_settings.json`.
 
 #### 2. Isi File `.env`
 Buat file bernama `.env` dan isi dengan informasi berikut:
